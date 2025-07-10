@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://path-to-your-banner.png" alt="Banner" width="800"/>
+  <img src="https://github.com/GitMeP/GitMeP/blob/master/Make%20your%20README%20(1).png" alt="Banner" width="800"/>
 </p>
 
 <!-- 👋 About Me -->
