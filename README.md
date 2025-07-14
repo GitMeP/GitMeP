@@ -41,7 +41,7 @@ I'm a **Senior Software Engineer** passionate about Artificial Intelligence.
 <!-- 📊 GitHub Stats -->
 ## 📊 My GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=GitMeP&show_icons=true&theme=radical" alt="stats"/>
 </p>
 
 ---
