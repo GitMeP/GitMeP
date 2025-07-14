@@ -32,12 +32,13 @@ I'm a **Senior Software Engineer** passionate about Artificial Intelligence.
 
 <!-- 💻 Skills -->
 ## 💻 Skills & Tools  
-![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-blue?logo=docker&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-purple)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-orange)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-yellow?logo=huggingface&logoColor=black)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-green)
+![Python](https://img.shields.io/badge/Python-479df3?style=for-the-badge&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-479df3?style=for-the-badge&logo=docker&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-479df3?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-479df3?style=for-the-badge)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-479df3?style=for-the-badge&logo=huggingface&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-479df3?style=for-the-badge)
+
 
 ---
 
