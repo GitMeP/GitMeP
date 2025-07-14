@@ -48,5 +48,5 @@ I'm a **Senior Software Engineer** passionate about Artificial Intelligence.
 
 <!-- 👀 Visitor Count -->
 ## 📊 Visitor Count
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/GitMeP/GitMeP&count_bg=%239D50BB&title_bg=%96DADB&icon=github.svg&icon_color=%23ffffff&title=Views&edge_flat=true)
+[![HitCount](https://hits.dwyl.com/GitMeP/GitMeP.svg?style=flat-square)](http://hits.dwyl.com/GitMeP/GitMeP)
 
