@@ -17,9 +17,12 @@ You can click the Preview link to take a look at your changes.
 
 <!-- 👋 About Me -->
 ## 👋 Hi, I'm Megha Pandey  
-I'm a **Senior Software Engineer** passionate about Artificial Intelligence.  
-🔭 I’m currently working on GenAI and NLP-related projects.  
-🌱 I’m learning RAG.  
+I'm a **Senior Software Engineer** passionate about building intelligent, scalable systems.  
+🚀 Currently working on **Generative AI** and **Natural Language Processing** (NLP).  
+🧠 Diving deep into **Retrieval-Augmented Generation (RAG)**, **LLM fine-tuning**, and **prompt engineering**.  
+📦 Experimenting with **LangChain**, **open-source LLMs**, and **vector databases**.  
+🌐 Exploring real-world GenAI applications through **chatbots**, **embedding models**, and **RAG pipelines**.  
+🌱 Lifelong learner on a mission to turn cutting-edge research into real-world impact.
 
 ---
 
