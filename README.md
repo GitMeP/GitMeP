@@ -48,5 +48,5 @@ I'm a **Senior Software Engineer** passionate about Artificial Intelligence.
 
 <!-- 👀 Visitor Count -->
 ## 📊 Visitor Count
-[![HitCount](https://hits.dwyl.com/GitMeP/GitMeP.svg?style=flat-square)](http://hits.dwyl.com/GitMeP/GitMeP)
+![Visitors](https://count.getloli.com/get/@GitMeP.GitMeP?theme=rule34)
 
