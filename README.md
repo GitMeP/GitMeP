@@ -33,8 +33,11 @@ I'm a **Senior Software Engineer** passionate about Artificial Intelligence.
 <!-- 💻 Skills -->
 ## 💻 Skills & Tools  
 ![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-blue?logo=react&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-blue?logo=docker&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-purple)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-orange)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-yellow?logo=huggingface&logoColor=black)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-green)
 
 ---
 
