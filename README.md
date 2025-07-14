@@ -47,4 +47,4 @@ I'm a **Senior Software Engineer** passionate about Artificial Intelligence.
 ---
 
 <!-- 👀 Visitor Count -->
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=YOUR_USERNAME)
+![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=GitMeP)
