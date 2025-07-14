@@ -40,8 +40,16 @@ I'm a **Senior Software Engineer** passionate about building intelligent, scalab
 ![Docker](https://img.shields.io/badge/Docker-479df3?style=for-the-badge&logo=docker&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-479df3?style=for-the-badge)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-479df3?style=for-the-badge)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-479df3?style=for-the-badge&logo=huggingface&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-479df3?style=for-the-badge)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-479df3?style=for-the-badge&logo=huggingface&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-479df3?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-479df3?style=for-the-badge)
+![Vector DBs](https://img.shields.io/badge/Vector%20DBs-479df3?style=for-the-badge)
+![Streamlit](https://img.shields.io/badge/Streamlit-479df3?style=for-the-badge&logo=streamlit&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-479df3?style=for-the-badge&logo=openai&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 
 ---
