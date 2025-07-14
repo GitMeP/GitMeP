@@ -47,5 +47,5 @@ I'm a **Senior Software Engineer** passionate about Artificial Intelligence.
 ---
 
 <!-- 👀 Visitor Count -->
-![Visitor Badge](https://count.getloli.com/get/@GitMeP.GitMeP?theme=classic)
+![Visitors](https://count.getloli.com/get/@GitMeP.GitMeP?theme=rule34)
 
