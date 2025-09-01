@@ -30,6 +30,7 @@ I'm a **Senior Software Engineer** passionate about building intelligent, scalab
 ## 🚀 Featured Projects
 <!-- - **[Project Name](https://github.com/you/project)** – One‑line summary of its purpose. 
 - **[Project Name 2](https://github.com/you/project2)** – Another key highlight. -->
+<mark> Work in Progress
 
 ---
 
